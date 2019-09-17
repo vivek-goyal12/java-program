@@ -1,0 +1,25 @@
+import java.util.*;
+
+public class Bookstore {
+    int n;
+    String bname;
+    String authorname;
+    int isbn;
+    public static void main(String[] args) {
+        Bookstore book = new Bookstore();
+        Bookstore author = new Bookstore();
+        Scanner n= new Scanner();
+        Bookstore number=new Bookstore();
+        isbn.number();
+        bname.book();
+        authorname.author();
+        if (n==0){
+            System.out.println("N/A");
+        }
+        System.out.println("Book Name:", "    ","bname");
+        System.out.println("Author Name:", "    ","authorname");
+        System.out.println("ISBN:", "    ","isbn|");
+        
+        
+    }
+}
